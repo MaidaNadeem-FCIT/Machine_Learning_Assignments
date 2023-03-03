@@ -15,10 +15,10 @@ Sr#,gender,ssc_percentage,ssc_board,hsc_percentage,hsc_board,hsc_subject,degree_
 14,F,77,,87,Central,Commerce,59,Comm&Mgmt,No,68,Mkt&Fin,68.63,Placed
 15,M,62,Central,47,Central,Commerce,50,Comm&Mgmt,No,76,Mkt&HR,54.96,Not Placed
 16,F,65,Central,75,Central,Commerce,69,Comm&Mgmt,Yes,72,Mkt&Fin,64.66,Placed
-17,M,63,Central,66.2,Central,Commerce,65.6,Comm&Mgmt,Yes,,Mkt&Fin,62.54,Placed
+17,M,63,Central,66.2,Central,Commerce,65.6,Comm&Mgmt,Yes,60,Mkt&Fin,62.54,Placed
 18,F,55,Central,67,Central,Commerce,64,Comm&Mgmt,No,60,Mkt&Fin,67.28,Not Placed
 19,F,63,Central,66,Central,Commerce,64,Comm&Mgmt,No,68,Mkt&HR,64.08,Not Placed
-20,M,60,Others,67,Others,Arts,70,Comm&Mgmt,,50.48,Mkt&Fin,77.89,Placed
+20,M,60,Others,67,Others,Arts,70,Comm&Mgmt,Yes,50.48,Mkt&Fin,77.89,Placed
 21,M,62,Others,65,Others,Commerce,66,Comm&Mgmt,No,50,Mkt&HR,56.7,Placed
 22,F,79,Others,76,Others,Commerce,85,Comm&Mgmt,No,95,Mkt&Fin,69.06,Placed
 23,F,69.8,Others,60.8,Others,Science,72.23,Sci&Tech,No,55.53,Mkt&HR,68.81,Placed
@@ -203,8 +203,8 @@ Sr#,gender,ssc_percentage,ssc_board,hsc_percentage,hsc_board,hsc_subject,degree_
 202,M,54.2,Central,63,Others,Science,58,Comm&Mgmt,No,79,Mkt&HR,58.44,Not Placed
 203,M,70,Central,63,Central,Science,66,Sci&Tech,No,61.28,Mkt&HR,60.11,Placed
 204,M,55.68,Others,61.33,Others,Commerce,56.87,Comm&Mgmt,No,66,Mkt&HR,58.3,Placed
-205,F,74,Others,73,Others,Commerce,73,Comm&Mgmt,Yes,80,Mkt&Fin,67.69,Placed
-206,M,61,Others,62,Others,Commerce,65,Comm&Mgmt,No,62,Mkt&Fin,56.81,Placed
+205,F,74,Others,73,Others,,73,Comm&Mgmt,Yes,80,Mkt&Fin,67.69,Placed
+206,M,61,Others,62,Others,Commerce,65,Comm&Mgmt,No,62,,56.81,Placed
 207,M,41,Central,42,Central,Science,60,Comm&Mgmt,No,97,Mkt&Fin,53.39,Not Placed
 208,M,83.33,Central,78,Others,Commerce,61,Comm&Mgmt,Yes,88.56,Mkt&Fin,71.55,Placed
 209,F,43,Central,60,Others,Science,65,Comm&Mgmt,No,92.66,Mkt&HR,62.92,Not Placed
